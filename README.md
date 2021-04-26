@@ -12,7 +12,7 @@ This is [repository](./) of PHP Tools made by me.
 ***
 
 ### ***Contact me***
-***Website*** : [Valeiriya.osaka](https://github.valeiriya.osaka/)
+***Website*** : [Valeiriya.osaka](https://github.valeiriya.osaka/) or [Valeiriya.one](//valeiriya.one/)
 
 ***Twitter*** : [AnoaGhost](https://twitter.com/AnoaGhost)
 ###
